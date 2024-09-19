@@ -1,4 +1,4 @@
-# Analise_RFM_Clusterizacao
+# Clusterização de Cientes de um E-commerce
 
 O objetivo aqui é clusterizar os clientes de um e-commerce que atua em 37 países. Isso será feito a partir de uma tabela RFM, que também será montada e tratada aqui.
 
